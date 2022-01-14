@@ -1,0 +1,8 @@
+Commands
+
+git init - Initializes the git repository
+git status - status of all the files.
+git add . - it add all the files
+git commit -m "Initial Commit"
+git branch -M main
+git push origin

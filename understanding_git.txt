@@ -6,3 +6,5 @@ git add . - it add all the files
 git commit -m "Initial Commit"
 git branch -M main
 git push origin
+
+git pull

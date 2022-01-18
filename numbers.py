@@ -3,10 +3,21 @@ def odd_even(number):
         print(f"{number} is even")
     else:
         print(f"{number} is odd")
-
-
-squar = int(input("Enter a number for squar: "))
-square_num = squar * squar
-print(f"{square_num} is squar of {squar}")
-number = int(input("Enter a number to check it is odd or even: "))
+    
+    
+number = int(input("Enter a number: "))
 odd_even(number)
+
+
+
+def check(n):
+      
+    if n > 0:
+        print("Positive")
+    elif n < 0:
+        print("Negative")
+    else:
+        print("Equal to zero")
+
+n = int(input("Enter the number: "))
+check(n)

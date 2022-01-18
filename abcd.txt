@@ -1,1 +1,11 @@
-ABCD 
+1. Fork this repository
+2. Clone this repository from your account
+3. Open with vs code
+4. numbers.py
+4.1. Issue request - I want to add a _____ function.
+5. Ansh - square
+6. Harshita - negative_positive
+7. Harsh & Harshita - reverse the number
+8. commit push 
+9. contribute - open pull request - create pull request
+10. I will merge your requests. 
